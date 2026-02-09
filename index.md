@@ -10,8 +10,8 @@
     
   <nav>
   <a href="./">Home</a> |
-  <a href="./worklogs/">Work Logs</a> |
-  <a href="./product/">readYou</a>
+  <a href="../worklogs/">Work Logs</a> |
+  <a href="../products/">readYou</a>
   </nav>
 
   </body>
