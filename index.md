@@ -13,7 +13,6 @@
   <a href="./worklogs">Work Logs</a>
   <a href="./product">readYou</a>
   </nav>
-  </hr >
 
   </body>
   
